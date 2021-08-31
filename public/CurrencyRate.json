@@ -1,0 +1,11 @@
+{
+    "exchangeRates": [
+        {"baseCurrency": "Euro", "targetCurrency": "US Dollar", "exchangeRate": 1.2897},
+        {"baseCurrency": "Euro", "targetCurrency": "Schweizer Franken", "exchangeRate": 1.3135},
+        {"baseCurrency": "Euro", "targetCurrency": "British Pound", "exchangeRate": 0.8631},
+        {"baseCurrency": "US Dollar", "targetCurrency": "JPY", "exchangeRate": 109.62},
+        {"baseCurrency": "Schweizer Franken", "targetCurrency": "US Dollar", "exchangeRate": 0.996},
+        {"baseCurrency": "British Pound", "targetCurrency": "CAD", "exchangeRate": 1.7574},
+        {"baseCurrency": "British Pound", "targetCurrency": "JPY", "exchangeRate": 153.74}
+    ]
+}
